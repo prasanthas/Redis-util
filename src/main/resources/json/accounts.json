@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "type": "Credit",
+    "amount": 1.1,
+    "accountSummaries": [
+      {
+        "Id": 12111,
+        "Summary": "In Account Credit Summary-1",
+        "Value": 12111.111
+      },
+      {
+        "Id": 24222,
+        "Summary": "In AccountDebit Summary-2",
+        "Value": 24222.222
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "type": "Savings",
+    "amount": 2.2,
+    "accountSummaries": [
+      {
+        "Id": 2111,
+        "Summary": "In Account Credit Summary-3",
+        "Value": 2111.111
+      },
+      {
+        "Id": 4222,
+        "Summary": "In AccountDebit Summary-4",
+        "Value": 4222.222
+      }
+    ]
+  }
+]

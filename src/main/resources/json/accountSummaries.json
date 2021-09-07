@@ -1,0 +1,12 @@
+[
+  {
+    "Id": 99,
+    "Summary": "Credit Summary",
+    "Value": 1.1
+  },
+  {
+    "Id": 88,
+    "Summary": "Debit Summary",
+    "Value": 2.2
+  }
+]

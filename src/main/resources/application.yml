@@ -1,0 +1,15 @@
+spring:
+  redis:
+  host: localhost
+  port: 6379
+
+cache:
+
+
+  account: true
+  accountSummary: true
+
+
+  action:
+    populate: true
+    read: true
